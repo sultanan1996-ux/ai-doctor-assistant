@@ -5,6 +5,19 @@ Assist doctors in evaluating shortness of breath safely and systematically.
 This tool is assistive, not diagnostic.
 
 ### Inputs (Ask/Collect)
+## Red Flags (Immediate Action)
+- Severe respiratory distress
+- Oxygen saturation < 90%
+- Cyanosis
+- Altered mental status
+- Hypotension
+- Chest pain suggestive of ACS
+- Hemoptysis with instability
+## Clinical Thinking Pathway (Family Medicine)
+- If sudden onset + chest pain + risk factors → consider PE, pneumothorax
+- If wheeze + asthma history → consider asthma exacerbation
+- If orthopnea + leg swelling → consider heart failure
+- If fever + cough + sputum → consider pneumonia
 - Age
 - Sex
 - Onset (sudden vs gradual)
